@@ -1,0 +1,14 @@
+# Python 관련 불필요 파일
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# 운영체제 관련
+.DS_Store
+Thumbs.db
+
+
+# Streamlit 설정
+.streamlit/
